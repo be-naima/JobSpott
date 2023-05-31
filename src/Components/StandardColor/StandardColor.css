@@ -1,0 +1,21 @@
+.color-standard{
+    background: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.bgColor-standard{
+    background: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
+   
+    border-radius: 8px;
+}
+.btn-border{
+  
+    background:linear-gradient(white,white)padding-box, linear-gradient(90deg, #7E90FE 0%, #9873FF 100%)border-box;
+    border-radius: 4px;
+    border: 2px solid transparent;
+    
+   
+}
+.top-m{
+    margin-top: 100px;
+}

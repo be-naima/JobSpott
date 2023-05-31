@@ -1,0 +1,9 @@
+.banner{
+    background: url('../../assets/AllImages/Vector.png')no-repeat bottom left,url('../../assets/AllImages/Vector-1.png') no-repeat right top;
+    margin-bottom: 100px;
+    
+}
+.banner h2{
+    margin: 8rem 0 ;
+   
+}

@@ -1,0 +1,107 @@
+[
+    {
+        "id":1,
+        "logo":"./Logo/google-1-1 1-1.png",
+        "post":"Technical Database Engineer",
+        "company":"Google",
+        "option1":"Remote",
+        "option2":"Full Time",
+        "location":"Dhaka,Bangladesh",
+        "salary":"100k-150k",
+        "jobDiscription":"A Technical Database Engineer is responsible for designing, implementing, and maintaining databases for organizations. They are responsible for ensuring the reliability, security, and efficiency of database systems.",
+        "responsibility":"Design and implement database systems that meet the organization's needs.Install and configure database management systems.Ensure the security and integrity of database systems.Optimize database systems for performance and scalability",
+        "education":"A bachelor's degree in computer science, information technology, or a related field is typically required for Technical Database Engineer positions.",
+        "experience":"2-3 Years in this field.",
+        "phone": "01857498123",
+        "email":"alexsmith9876@icloud.com",
+        "address":"Concord Tower, Farmgate, Dhaka-1215, Bangladesh"
+
+    },
+    {
+        "id":2,
+        "logo":"./Logo/netflix-4 1.png",
+        "post":"Senior Product Designer",
+        "company":"Netflix",
+        "option1":"Onsite",
+        "option2":"Full Time",
+        "location":"Chittagong,Bangladesh",
+        "salary":"100k-130k",
+        "jobDiscription":"A Senior Product Designer is responsible for leading the design process of new products and improving existing ones. They work closely with cross-functional teams to ensure that products are user-centered, visually appealing, and easy to use. ",
+        "responsibility":"Lead the design process of new products from concept to launch.Improve the user experience of existing products.Collaborate with cross-functional teams, including product managers, engineers, and marketers, to ensure that designs meet business requirements and user needs.Conduct user research and testing to inform design decisions.",
+        "education":"A bachelor's degree in graphic design, visual communication, human-computer interaction, or a related field is typically required for Senior Product Designer positions. ",
+        "experience":"3-4 Years in this field.",
+        "phone": "01957498123",
+        "email":"juliegreen5555@aol.com",
+        "address":"Osman Plaza, 53 Agrabad Access Road,Chittagong-4000, Bangladesh"
+
+    },{
+        "id":3,
+        "logo":"./Logo/tesla-9 1.png",
+        "post":"Software Engineer",
+        "company":"Tesla",
+        "option1":"Remote",
+        "option2":"Full Time",
+        "location":"Cumilla,Bangladesh",
+        "salary":"100k-190k",
+        "jobDiscription":"A Software Engineer in Tesla is responsible for developing software applications that are used in the design, production, and operation of Tesla's products. They work on a wide range of software systems, including user interfaces, control systems, and data analytics tools. Software Engineers at Tesla also collaborate with cross-functional teams, including hardware engineers, designers, and data scientists, to develop innovative solutions that advance the company's mission.",
+        "responsibility":"Develop software applications that are used in Tesla's products, including electric vehicles, energy storage systems, and solar panels.Collaborate with cross-functional teams to identify software requirements and develop software solutions that meet business needs.Write clean, efficient, and maintainable code that meets Tesla's coding standards.Test software applications to ensure that they are reliable and meet performance requirements.Participate in code reviews to ensure code quality and consistency.",
+        "education":"A bachelor's degree in computer science, software engineering, or a related field is typically required for Software Engineer positions at Tesla.",
+        "experience":"1-2 Years in this field.",
+        "phone": "01157498123",
+        "email":"johndoe1234@gmail.com",
+        "address":"Zaman Mansion, Gouripur, Cumilla-3501, Bangladesh"
+
+    },{
+        "id":4,
+        "logo":"./Logo/meta-logo.png",
+        "post":"Technical Database Engineer",
+        "company":"Meta",
+        "option1":"Onsite",
+        "option2":"Full Time",
+        "location":"Noakhali,Bangladesh",
+        "salary":"100k-170k",
+        "jobDiscription":"A Technical Database Engineer at Meta is responsible for designing, building, and maintaining databases and database systems that support the company's operations. They work closely with cross-functional teams to ensure that databases are reliable, secure, and efficient. ",
+        "responsibility":"Design and build databases and database systems that support Meta's operations.Install and configure database management systems.Develop and maintain database documentation, including data standards, procedures, and definitions.Ensure the security and integrity of database systems.Monitor database performance and identify and resolve performance issues.",
+        "education":"A bachelor's degree in computer science, information technology, or a related field is typically required for Technical Database Engineer positions at Meta. ",
+        "experience":"4-5 Years in this field.",
+        "phone": "01657498123",
+        "email":"sarahjones567@hotmail.com",
+        "address":"Rahman Plaza, Begumganj, Noakhali-3850, Bangladesh"
+
+    },{
+        "id":5,
+        "logo":"./Logo/facebook-logo.png",
+        "post":"Research Director",
+        "company":"Facebook",
+        "option1":"Remote",
+        "option2":"Full Time",
+        "location":"Rangpur,Bangladesh",
+        "salary":"100k-140k",
+        "jobDiscription":"A Research Director at Facebook is responsible for leading and managing a team of researchers who conduct research to support Facebook's products and services. They work closely with cross-functional teams, including product managers, designers, and engineers, to ensure that research insights are incorporated into product development and design. ",
+        "responsibility":"Lead and manage a team of researchers who conduct research to support Facebook's products and services.Develop and implement a research strategy that aligns with Facebook's business goals.Collaborate with cross-functional teams to identify research needs and opportunities, and ensure that research insights are incorporated into product development and design.Plan and execute research studies, including user research, market research, and usability testing.Analyze and interpret research data to inform product decisions and business strategy.",
+        "education":"Bachelor degree to complete any reputational university.",
+        "experience":"2-3 Years in this field.",
+        "phone": "01757498123",
+        "email":"brianwilson999@yahoo.com",
+        "address":"Haji Shamsul Huda Market, Gohail Road,Rangpur, Rangpur-5400, Bangladesh"
+
+    },{
+        "id":6,
+        "logo":"./Logo/instagram_logo_icon_170643.png",
+        "post":"Data & Analytics",
+        "company":"Instagram",
+        "option1":"Onsite",
+        "option2":"Full Time",
+        "location":"Rajshahi,Bangladesh",
+        "salary":"100k-120k",
+        "jobDiscription":"A Data & Analytics role at Instagram involves working with large sets of data to uncover insights and provide strategic recommendations for the company's products and services. Data & Analytics professionals at Instagram work closely with cross-functional teams, including product managers, designers, and engineers, to understand user behavior and preferences and optimize user experiences.",
+        "responsibility":"Analyze large data sets using various data analysis tools and techniques.Develop and maintain dashboards and reports to track key performance indicators (KPIs).Use statistical models and machine learning algorithms to uncover patterns and insights in user behavior data.Work closely with product teams to understand user behavior and preferences and identify opportunities to improve user experiences.Develop and implement A/B testing and experimentation frameworks to test and validate hypotheses.",
+        "education":"A bachelor's or master's degree in a quantitative field such as computer science, mathematics, statistics, or data science is typically required for Data & Analytics roles at Instagram.",
+        "experience":"1-3 Years in this field.",
+        "phone": "01757498123",
+        "email":"emilybrown4321@outlook.com",
+        "address":"Navana Tower, Station Road, Rajshahi-6000, Bangladesh"
+
+    }
+
+]
